@@ -39,7 +39,6 @@ Neuralink
 生物学
 生命科学
 +研究
-+进展
 +突破
 
 科学
@@ -52,13 +51,9 @@ Neuralink
 可控核聚变
 引力波
 量子计算
-+Nature
-+Science
-+Cell
-+重大发现
-+突破
 !作业
 !考试
+!辅导
 
 微软
 Microsoft
@@ -87,7 +82,6 @@ mac
 ios
 Vision Pro
 Apple Intelligence
-!股市
 
 ai
 !gai
@@ -97,9 +91,7 @@ AI
 AGI
 Agent
 +发布
-+突破
 +最新
-+开源
 !概念股
 !行情
 
@@ -114,10 +106,6 @@ Agent
 国务院
 外交部
 局势
-重磅
-突发
-央视新闻
-新华社
 @10
 
 芯片
